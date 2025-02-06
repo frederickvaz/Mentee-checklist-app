@@ -2,7 +2,7 @@ const checklistItems = [
     "The Mentee does not attend his mentoring meetings consistently",
     "The mentee is facing a difficult situation for a long time",
     "The mentee has irregular college attendance",
-    "The mentee feeling sad/tensed for a long time",
+    "The mentee is feeling sad/tensed for a long time",
     "The mentee is using alcohol/drugs on a regular basis", // Critical Item
     "The mentee has substance withdrawal signs",
     "The mentee is feeling hopeless", // Critical Item
